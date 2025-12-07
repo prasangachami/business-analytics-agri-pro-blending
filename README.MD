@@ -24,10 +24,13 @@ Cost per pound   $0.25   $0.30   $0.32     $0.15
 
 (3) Mix consists of at least 20% corn:
     (0.3X1 + 0.05X2 + 0.2X3 + 0.1X4)/8000 ≥ 0.2
+
 (4) Mix consists of at least 15% grain
     (0.1X1 + 0.3X2 + 0.15X3 + 0.1X4)/8000 ≥ 0.15
+
 (5) Mix consists of at least 15% minerals
     (0.2X1 + 0.2X2 + 0.2X3 + 0.3X4)/8000 ≥ 0.15
+
 (6) Non-negativity conditions
     X1, X2, X3, X4 ≥ 0
 
